@@ -39,3 +39,13 @@ equilidan distance. and rank them and sort them
 Note: for the NN the model size will not change regardless of 5 images or 5 million images. but we spend on traing,
 to learning patterns on underlying data
 
+# Parameterized Learning: A Better Approach
+
+1. Define model in terms of a small number of parameters
+2. learn patterns from data during training time
+3. Spend more time upfront during training
+4. Model will always be same size regardless of dataset size
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
